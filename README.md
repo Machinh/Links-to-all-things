@@ -2,10 +2,13 @@
 
 // A repository with links to everything
 
-# hacking
+# hacking-useful
 
 https://www.root-me.org/
+
 https://www.hackthebox.eu/
+
+https://github.com/enaqx/awesome-pentest#protocol-analyzers-and-sniffers
 
 # Privesc
 
@@ -23,6 +26,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 
 https://github.com/1N3/IntruderPayloads
 
+http://www.asciitable.com/
+
 # REV SHELLS
 
 https://dashboard.ngrok.com/get-started
@@ -38,3 +43,7 @@ https://aperisolve.fr/
 https://aperisolve.fr/
 
 # CTF
+
+# OHSINT
+
+https://osintframework.com/
