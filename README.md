@@ -2,7 +2,7 @@
 
 // A repository with links to everything
 
-# hacking:
+# hacking
 
 https://www.root-me.org/
 https://www.hackthebox.eu/
@@ -17,7 +17,7 @@ https://github.com/rebootuser/LinEnum
 
 https://github.com/reider-roque/linpostexp/blob/master/linprivchecker.py
 
-# Things:
+# Things
 
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
@@ -30,5 +30,9 @@ https://dashboard.ngrok.com/get-started
 https://medium.com/@incubusattax/setting-up-an-ssh-tunnel-using-plink-7d8dacfd4014
 
 # Steganography
+
+https://aperisolve.fr/
+
+# Tools
 
 https://aperisolve.fr/
