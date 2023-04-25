@@ -28,6 +28,18 @@ https://github.com/1N3/IntruderPayloads
 
 http://www.asciitable.com/
 
+https://www.twitchquotes.com/copypastas/ascii-art
+
+https://haveibeenpwned.com/Passwords
+
+https://www.4devs.com.br/gerador_de_nicks
+
+https://tuna.voicemod.net/
+
+https://dnsdumpster.com/
+
+https://www.a1securitycameras.com/technical-support/default-username-passwords-ip-addresses-for-surveillance-cameras/
+
 # REV SHELLS
 
 https://dashboard.ngrok.com/get-started
@@ -44,6 +56,12 @@ https://aperisolve.fr/
 
 # CTF
 
+https://ctftime.org/ctfs
+
+https://ctfsites.github.io/
+
 # OHSINT
 
 https://osintframework.com/
+
+https://jimpl.com/
