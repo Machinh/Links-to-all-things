@@ -54,6 +54,11 @@ https://aperisolve.fr/
 
 https://aperisolve.fr/
 
+https://www.maltego.com/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301
+
+https://github.com/laramies/theHarvester
+
+https://github.com/AzizKpln/Moriarty-Project
 # CTF
 
 https://ctftime.org/ctfs
